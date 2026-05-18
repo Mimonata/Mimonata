@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-## Sabina Pitul
-
 ### Junior Software Engineer
 
 Berlin, Germany | [github.com/Mimonata](github.com/Mimonata)
